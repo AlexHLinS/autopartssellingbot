@@ -130,4 +130,8 @@ dmypy.json
 
 # Not sharable files
 data 
+<<<<<<< HEAD
 exploring.json
+=======
+exploring.json
+>>>>>>> f9f4fd90f736fad8b76e302244ccd87f9d1ef560
