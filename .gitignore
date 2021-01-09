@@ -128,12 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Not sharable files
+# Not sharable files and folders (manual added)
 data 
-<<<<<<< HEAD
 exploring.json
-=======
-exploring.json
->>>>>>> f9f4fd90f736fad8b76e302244ccd87f9d1ef560
-
 message_templates/
